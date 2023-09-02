@@ -17,3 +17,8 @@ python papers.py
 
 You will also need the papers.zip from this link
 [https://courses.maine.edu/d2l/le/content/294668/viewContent/8338635/View](url)
+
+
+Once the program is finished a file named "papers.csv" will contain all the extracted data.
+
+There is a function designed to read this data which will output everything in the terminal once the reading and writing has completed.
